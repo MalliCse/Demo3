@@ -10,7 +10,6 @@ public class Demo3Application {
 
 		System.out.print("Hello");
 		System.out.print("Malli");
-
 		System.out.print("Hello");
 		System.out.print("John");
 
